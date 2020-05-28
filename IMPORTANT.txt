@@ -1,0 +1,3 @@
+NortexHub is available in "Python-Console"
+
+You can download it at www.nortex.glitch.me/nortex-hub.html
